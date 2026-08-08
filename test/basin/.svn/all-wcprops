@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/src/!svn/ver/835/test/basin
+END
+basin.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/src/!svn/ver/831/test/basin/basin.h
+END
+ocean_basin.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/831/test/basin/ocean_basin.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/src/!svn/ver/835/test/basin/build.sh
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/src/!svn/ver/835/test/basin/build.bash
+END

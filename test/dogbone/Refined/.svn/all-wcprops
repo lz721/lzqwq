@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src/!svn/ver/835/test/dogbone/Refined
+END
+dogbone.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src/!svn/ver/831/test/dogbone/Refined/dogbone.h
+END
+ocean_dogbone.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/dogbone/Refined/ocean_dogbone.in
+END
+ana_vmix.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src/!svn/ver/831/test/dogbone/Refined/ana_vmix.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src/!svn/ver/835/test/dogbone/Refined/build.sh
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src/!svn/ver/835/test/dogbone/Refined/build.bash
+END

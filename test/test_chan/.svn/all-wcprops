@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/src/!svn/ver/835/test/test_chan
+END
+ocean_test_chan.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/831/test/test_chan/ocean_test_chan.in
+END
+sediment_test_chan.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src/!svn/ver/831/test/test_chan/sediment_test_chan.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src/!svn/ver/835/test/test_chan/build.sh
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/835/test/test_chan/build.bash
+END
+test_chan.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/test_chan/test_chan.h
+END

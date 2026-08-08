@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/src/!svn/ver/835/test/seamount
+END
+seamount.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/831/test/seamount/seamount.h
+END
+ocean_seamount.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src/!svn/ver/831/test/seamount/ocean_seamount.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src/!svn/ver/835/test/seamount/build.sh
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/835/test/seamount/build.bash
+END

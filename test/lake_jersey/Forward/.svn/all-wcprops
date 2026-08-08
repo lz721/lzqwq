@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/835/test/lake_jersey/Forward
+END
+ana_smflux.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/lake_jersey/Forward/ana_smflux.h
+END
+lake_jersey.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/lake_jersey/Forward/lake_jersey.h
+END
+ocean_lake_jersey.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/src/!svn/ver/831/test/lake_jersey/Forward/ocean_lake_jersey.in
+END
+ana_vmix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src/!svn/ver/831/test/lake_jersey/Forward/ana_vmix.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/835/test/lake_jersey/Forward/build.sh
+END
+ana_stflux.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/lake_jersey/Forward/ana_stflux.h
+END
+sediment_lake_jersey.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/src/!svn/ver/831/test/lake_jersey/Forward/sediment_lake_jersey.in
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src/!svn/ver/835/test/lake_jersey/Forward/build.bash
+END
+ana_sediment.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src/!svn/ver/831/test/lake_jersey/Forward/ana_sediment.h
+END
+ana_wwave.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src/!svn/ver/831/test/lake_jersey/Forward/ana_wwave.h
+END

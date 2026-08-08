@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/src/!svn/ver/831/test/WC13/Data
+END
+wc13_obs.nc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_obs.nc
+END
+wc13_ecco_bry.nc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_ecco_bry.nc
+END
+wc13_irp.nc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_irp.nc
+END
+coamps_wc13_rain.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/WC13/Data/coamps_wc13_rain.nc
+END
+wc13_std_b.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_std_b.nc
+END
+adsen_37N_transport.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src/!svn/ver/831/test/WC13/Data/adsen_37N_transport.m
+END
+coamps_wc13_Pair.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/WC13/Data/coamps_wc13_Pair.nc
+END
+wc13_nrm_b.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_nrm_b.nc
+END
+coamps_wc13_Qair.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/WC13/Data/coamps_wc13_Qair.nc
+END
+adsen.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/831/test/WC13/Data/adsen.cdl
+END
+wc13_std_f.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_std_f.nc
+END
+coamps_wc13_Tair.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/WC13/Data/coamps_wc13_Tair.nc
+END
+wc13_nrm_f.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_nrm_f.nc
+END
+coamps_wc13_lwrad_down.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src/!svn/ver/831/test/WC13/Data/coamps_wc13_lwrad_down.nc
+END
+wc13_std_i.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_std_i.nc
+END
+coamps_wc13_wind.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/WC13/Data/coamps_wc13_wind.nc
+END
+wc13_nrm_i.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_nrm_i.nc
+END
+wc13_std_m.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_std_m.nc
+END
+wc13_ads.nc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_ads.nc
+END
+wc13_nrm_m.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_nrm_m.nc
+END
+wc13_cst.mat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_cst.mat
+END
+coamps_wc13_SST.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/831/test/WC13/Data/coamps_wc13_SST.nc
+END
+wc13_grd.nc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_grd.nc
+END
+wc13_ini.nc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/WC13/Data/wc13_ini.nc
+END
+coamps_wc13_swrad.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src/!svn/ver/831/test/WC13/Data/coamps_wc13_swrad.nc
+END

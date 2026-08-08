@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/src/!svn/ver/835/test/shoreface
+END
+shoreface.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/shoreface/shoreface.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src/!svn/ver/835/test/shoreface/build.sh
+END
+ocean_shoreface.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/831/test/shoreface/ocean_shoreface.in
+END
+stations.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/shoreface/stations.in
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/835/test/shoreface/build.bash
+END
+sediment_shoreface.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src/!svn/ver/831/test/shoreface/sediment_shoreface.in
+END

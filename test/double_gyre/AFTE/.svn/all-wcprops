@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/src/!svn/ver/835/test/double_gyre/AFTE
+END
+job_afte.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/831/test/double_gyre/AFTE/job_afte.sh
+END
+double_gyre.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src/!svn/ver/831/test/double_gyre/AFTE/double_gyre.h
+END
+plt_afte.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/831/test/double_gyre/AFTE/plt_afte.sh
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src/!svn/ver/835/test/double_gyre/AFTE/build.sh
+END
+ocean_double_gyre.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/double_gyre/AFTE/ocean_double_gyre.in
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src/!svn/ver/835/test/double_gyre/AFTE/build.bash
+END

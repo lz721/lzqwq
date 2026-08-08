@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src/!svn/ver/831/test/inlet_test/Data
+END
+inlet_test_grid_coord.grd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/src/!svn/ver/831/test/inlet_test/Data/inlet_test_grid_coord.grd
+END
+inlet_test_bathy.bot
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/src/!svn/ver/831/test/inlet_test/Data/inlet_test_bathy.bot
+END
+inlet_test_grid.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src/!svn/ver/831/test/inlet_test/Data/inlet_test_grid.nc
+END

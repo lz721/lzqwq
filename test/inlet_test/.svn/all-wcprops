@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/src/!svn/ver/835/test/inlet_test
+END
+coupling_inlet_test.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/inlet_test/coupling_inlet_test.in
+END
+inlet_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/inlet_test/inlet_test.h
+END
+ocean_inlet_test.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src/!svn/ver/831/test/inlet_test/ocean_inlet_test.in
+END
+sediment_inlet_test.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/inlet_test/sediment_inlet_test.in
+END
+swan_inlet_test.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/inlet_test/swan_inlet_test.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/835/test/inlet_test/build.sh
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/835/test/inlet_test/build.bash
+END

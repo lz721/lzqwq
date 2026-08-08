@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/835/test/lake_jersey/Refined
+END
+ocean_lake_jersey_nested_4g_acde.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ocean_lake_jersey_nested_4g_acde.in
+END
+lake_jersey.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/lake_jersey.h
+END
+ana_smflux.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ana_smflux.h
+END
+sediment_lake_jersey_nested_2g.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/sediment_lake_jersey_nested_2g.in
+END
+sediment_lake_jersey_nested_3g.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/sediment_lake_jersey_nested_3g.in
+END
+sediment_lake_jersey_nested_4g.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/sediment_lake_jersey_nested_4g.in
+END
+ana_vmix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ana_vmix.h
+END
+ana_stflux.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ana_stflux.h
+END
+ana_wwave.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ana_wwave.h
+END
+ocean_lake_jersey_nested_2g_ab.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ocean_lake_jersey_nested_2g_ab.in
+END
+ocean_lake_jersey_nested_2g_ac.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ocean_lake_jersey_nested_2g_ac.in
+END
+ocean_lake_jersey_nested_2g_ad.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ocean_lake_jersey_nested_2g_ad.in
+END
+ocean_lake_jersey_nested_3g_abd.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ocean_lake_jersey_nested_3g_abd.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/835/test/lake_jersey/Refined/build.sh
+END
+ocean_lake_jersey_nested_3g_ade.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ocean_lake_jersey_nested_3g_ade.in
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src/!svn/ver/835/test/lake_jersey/Refined/build.bash
+END
+ocean_lake_jersey_nested_4g_abdc.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ocean_lake_jersey_nested_4g_abdc.in
+END
+ana_sediment.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src/!svn/ver/831/test/lake_jersey/Refined/ana_sediment.h
+END

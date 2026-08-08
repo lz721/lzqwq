@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/src/!svn/ver/831/test/double_gyre/Data
+END
+gyre3d_sosemi_ads.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/double_gyre/Data/gyre3d_sosemi_ads.nc
+END
+gyre3d_ini_steady_01.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/src/!svn/ver/831/test/double_gyre/Data/gyre3d_ini_steady_01.nc
+END
+gyre3d_ini_zero.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src/!svn/ver/831/test/double_gyre/Data/gyre3d_ini_zero.nc
+END

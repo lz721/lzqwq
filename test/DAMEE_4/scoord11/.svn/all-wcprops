@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/src/!svn/ver/835/test/DAMEE_4/scoord11
+END
+ccnt_temp.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/DAMEE_4/scoord11/ccnt_temp.in
+END
+damee_4.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src/!svn/ver/831/test/DAMEE_4/scoord11/damee_4.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src/!svn/ver/835/test/DAMEE_4/scoord11/build.sh
+END
+ocean_damee_4.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/DAMEE_4/scoord11/ocean_damee_4.in
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src/!svn/ver/835/test/DAMEE_4/scoord11/build.bash
+END

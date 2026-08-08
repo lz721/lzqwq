@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/src/!svn/ver/831/test/dogbone/Data
+END
+dogbone_grd_href3.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_grd_href3.nc
+END
+dogbone_ngc_refined.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_ngc_refined.nc
+END
+dogbone_grd_left.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_grd_left.nc
+END
+dogbone_ini_href3.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_ini_href3.nc
+END
+dogbone_grd_right.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_grd_right.nc
+END
+dogbone_ini_left.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_ini_left.nc
+END
+dogbone_ngc_composite.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_ngc_composite.nc
+END
+dogbone_grd_whole.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_grd_whole.nc
+END
+dogbone_ini_right.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_ini_right.nc
+END
+dogbone_ini_whole.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/dogbone/Data/dogbone_ini_whole.nc
+END

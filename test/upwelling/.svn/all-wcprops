@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/src/!svn/ver/835/test/upwelling
+END
+ocean_upwelling.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/831/test/upwelling/ocean_upwelling.in
+END
+csec.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src/!svn/ver/831/test/upwelling/csec.in
+END
+floats_upwelling.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/upwelling/floats_upwelling.in
+END
+npzd_Franks.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src/!svn/ver/831/test/upwelling/npzd_Franks.in
+END
+ecosim.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/831/test/upwelling/ecosim.in
+END
+ana_winds.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/upwelling/ana_winds.h
+END
+upwelling.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/upwelling/upwelling.h
+END
+fennel.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src/!svn/ver/831/test/upwelling/fennel.h
+END
+ana_initial.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/upwelling/ana_initial.h
+END
+ana_pair.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/831/test/upwelling/ana_pair.h
+END
+npzd_Powell.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src/!svn/ver/831/test/upwelling/npzd_Powell.in
+END
+ana_tair.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/831/test/upwelling/ana_tair.h
+END
+bio_Fennel.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/upwelling/bio_Fennel.in
+END
+npzd_iron.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src/!svn/ver/831/test/upwelling/npzd_iron.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src/!svn/ver/835/test/upwelling/build.sh
+END
+stations.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/upwelling/stations.in
+END
+nemuro.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/831/test/upwelling/nemuro.in
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/835/test/upwelling/build.bash
+END
+ana_humid.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/upwelling/ana_humid.h
+END

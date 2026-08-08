@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/src/!svn/ver/831/test/channel/Data
+END
+channel_ini_zero.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/channel/Data/channel_ini_zero.nc
+END
+channel_fwd_analytical.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/src/!svn/ver/831/test/channel/Data/channel_fwd_analytical.nc
+END

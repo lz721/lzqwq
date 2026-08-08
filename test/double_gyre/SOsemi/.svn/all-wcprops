@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src/!svn/ver/835/test/double_gyre/SOsemi
+END
+job_so_semi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/double_gyre/SOsemi/job_so_semi.sh
+END
+double_gyre.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/double_gyre/SOsemi/double_gyre.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src/!svn/ver/835/test/double_gyre/SOsemi/build.sh
+END
+plt_so.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/831/test/double_gyre/SOsemi/plt_so.sh
+END
+ocean_double_gyre.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src/!svn/ver/831/test/double_gyre/SOsemi/ocean_double_gyre.in
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/835/test/double_gyre/SOsemi/build.bash
+END

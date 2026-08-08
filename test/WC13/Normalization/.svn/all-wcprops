@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src/!svn/ver/835/test/WC13/Normalization
+END
+wc13.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src/!svn/ver/831/test/WC13/Normalization/wc13.h
+END
+ocean_wc13.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/WC13/Normalization/ocean_wc13.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src/!svn/ver/835/test/WC13/Normalization/build.sh
+END
+s4dvar.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src/!svn/ver/831/test/WC13/Normalization/s4dvar.in
+END
+job_normalization.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src/!svn/ver/831/test/WC13/Normalization/job_normalization.sh
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/835/test/WC13/Normalization/build.bash
+END
+Readme
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src/!svn/ver/831/test/WC13/Normalization/Readme
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/src/!svn/ver/835/test/WC13/I4DVAR
+END
+wc13.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src/!svn/ver/831/test/WC13/I4DVAR/wc13.h
+END
+ocean_wc13.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src/!svn/ver/831/test/WC13/I4DVAR/ocean_wc13.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/835/test/WC13/I4DVAR/build.sh
+END
+s4dvar.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/WC13/I4DVAR/s4dvar.in
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src/!svn/ver/835/test/WC13/I4DVAR/build.bash
+END
+job_i4dvar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src/!svn/ver/831/test/WC13/I4DVAR/job_i4dvar.sh
+END
+Readme
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src/!svn/ver/831/test/WC13/I4DVAR/Readme
+END

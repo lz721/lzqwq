@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/src/!svn/ver/831/test/WC13/plotting
+END
+ccnt_posterior_EOF_fields.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/src/!svn/ver/831/test/WC13/plotting/ccnt_posterior_EOF_fields.in
+END
+plot_psas_increments.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_psas_increments.m
+END
+plot_prior_posterior_errors.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_prior_posterior_errors.m
+END
+plot_psas_cost.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_psas_cost.m
+END
+plot_eof_eigenvalues.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_eof_eigenvalues.m
+END
+csec_r4dvar_increments.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src/!svn/ver/831/test/WC13/plotting/csec_r4dvar_increments.in
+END
+plot_psas_impact.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_psas_impact.m
+END
+ccnt_i4dvar_increments.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src/!svn/ver/831/test/WC13/plotting/ccnt_i4dvar_increments.in
+END
+plot_posterior_EOF_fields.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_posterior_EOF_fields.m
+END
+plot_array_modes.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_array_modes.m
+END
+ccnt_normalization_f.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/WC13/plotting/ccnt_normalization_f.in
+END
+csec_posterior_EOF_fields.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/src/!svn/ver/831/test/WC13/plotting/csec_posterior_EOF_fields.in
+END
+plot_psas_sensitivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_psas_sensitivity.m
+END
+plot_i4dvar_increments.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_i4dvar_increments.m
+END
+ccnt_psas_increments.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/WC13/plotting/ccnt_psas_increments.in
+END
+plot_i4dvar_cost.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_i4dvar_cost.m
+END
+plot_i4dvar_impact.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_i4dvar_impact.m
+END
+ccnt_array_modes.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/WC13/plotting/ccnt_array_modes.in
+END
+plot_r4dvar_increments.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_r4dvar_increments.m
+END
+csec_i4dvar_increments.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src/!svn/ver/831/test/WC13/plotting/csec_i4dvar_increments.in
+END
+plot_r4dvar_cost.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_r4dvar_cost.m
+END
+plot_r4dvar_impact.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_r4dvar_impact.m
+END
+default1.cnt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src/!svn/ver/831/test/WC13/plotting/default1.cnt
+END
+csec_psas_increments.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/WC13/plotting/csec_psas_increments.in
+END
+plot_r4dvar_sensitivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_r4dvar_sensitivity.m
+END
+ccnt_r4dvar_increments.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src/!svn/ver/831/test/WC13/plotting/ccnt_r4dvar_increments.in
+END
+csec_array_modes.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src/!svn/ver/831/test/WC13/plotting/csec_array_modes.in
+END
+ccnt_normalization_i.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/WC13/plotting/ccnt_normalization_i.in
+END
+gebco1.pal
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src/!svn/ver/831/test/WC13/plotting/gebco1.pal
+END
+plot_obs.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src/!svn/ver/831/test/WC13/plotting/plot_obs.m
+END
+ccnt_hraw.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src/!svn/ver/831/test/WC13/plotting/ccnt_hraw.in
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3
+END
+damee4_levfeb_a.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3/damee4_levfeb_a.nc
+END
+damee4_levfeb_b.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3/damee4_levfeb_b.nc
+END
+damee4_grid_a.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3/damee4_grid_a.nc
+END
+damee4_grid_b.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3/damee4_grid_b.nc
+END
+damee4_Lclm_a.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3/damee4_Lclm_a.nc
+END
+damee4_Lclm_b.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3/damee4_Lclm_b.nc
+END
+damee4_coads.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3/damee4_coads.nc
+END
+damee4_nudgcoef_a.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3/damee4_nudgcoef_a.nc
+END
+damee4_nudgcoef_b.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/src/!svn/ver/831/test/DAMEE_4/Data/netcdf3/damee4_nudgcoef_b.nc
+END

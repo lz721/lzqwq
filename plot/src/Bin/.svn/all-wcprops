@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/src/!svn/ver/833/plot/src/Bin
+END
+copyright.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/833/plot/src/Bin/copyright.sh
+END
+copyright.bash
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src/!svn/ver/833/plot/src/Bin/copyright.bash
+END
+cpp_clean
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src/!svn/ver/833/plot/src/Bin/cpp_clean
+END
+ncgm2png.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/833/plot/src/Bin/ncgm2png.sh
+END
+ncgm2gif.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/833/plot/src/Bin/ncgm2gif.sh
+END
+ncgm2cgm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/833/plot/src/Bin/ncgm2cgm.sh
+END
+sfmakedepend
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/833/plot/src/Bin/sfmakedepend
+END
+build_plt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/833/plot/src/Bin/build_plt.sh
+END
+build_plt.bash
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src/!svn/ver/833/plot/src/Bin/build_plt.bash
+END
+plt_html.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src/!svn/ver/833/plot/src/Bin/plt_html.sh
+END

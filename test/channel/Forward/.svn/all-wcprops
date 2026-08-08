@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src/!svn/ver/835/test/channel/Forward
+END
+ocean_channel.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src/!svn/ver/831/test/channel/Forward/ocean_channel.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src/!svn/ver/835/test/channel/Forward/build.sh
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src/!svn/ver/835/test/channel/Forward/build.bash
+END
+channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src/!svn/ver/831/test/channel/Forward/channel.h
+END

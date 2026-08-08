@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/src/!svn/ver/835/test/benchmark
+END
+benchmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src/!svn/ver/831/test/benchmark/benchmark.h
+END
+ocean_benchmark1.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/benchmark/ocean_benchmark1.in
+END
+ocean_benchmark2.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/benchmark/ocean_benchmark2.in
+END
+ocean_benchmark3.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src/!svn/ver/831/test/benchmark/ocean_benchmark3.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src/!svn/ver/835/test/benchmark/build.sh
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src/!svn/ver/835/test/benchmark/build.bash
+END

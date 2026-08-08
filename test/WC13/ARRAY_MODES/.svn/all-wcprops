@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/src/!svn/ver/835/test/WC13/ARRAY_MODES
+END
+wc13.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/ARRAY_MODES/wc13.h
+END
+ocean_wc13.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src/!svn/ver/831/test/WC13/ARRAY_MODES/ocean_wc13.in
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src/!svn/ver/835/test/WC13/ARRAY_MODES/build.sh
+END
+job_array_modes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src/!svn/ver/831/test/WC13/ARRAY_MODES/job_array_modes.sh
+END
+s4dvar.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src/!svn/ver/831/test/WC13/ARRAY_MODES/s4dvar.in
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src/!svn/ver/835/test/WC13/ARRAY_MODES/build.bash
+END
+Readme
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src/!svn/ver/831/test/WC13/ARRAY_MODES/Readme
+END
